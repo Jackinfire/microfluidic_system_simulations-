@@ -16,7 +16,7 @@ This repository contains the final report, CAD files, and supplementary material
 This repository primarily contains:
 
 * **Final Report:** A comprehensive document detailing the project's background, methodology, results, and conclusions.
-* **CAD Files:** Design files for the microfluidic device. [cite: 10]
+* **CAD Files:** Design files for the microfluidic device.
 * **Other Deliverables:** Mindmap, Brochure and Literature reviews
 
 ## Usage
